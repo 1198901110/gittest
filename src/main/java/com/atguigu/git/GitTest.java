@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hot-fix commit");
         System.out.println("master commit");
         System.out.println("merge test1");
+        System.out.println("hot-fix test");
+        System.out.println("merge test2");
     }
 }
